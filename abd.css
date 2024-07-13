@@ -1,0 +1,180 @@
+.abcbook{
+    background-color: rgb(21, 5, 253)    
+}
+.a1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.e1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.g1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.i1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.j1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.k1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.l1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.m1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.n1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.o1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.q1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.r1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.s1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.u1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.v1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.w1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.x1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.y1{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.z1{
+    background-color: rgb(0, 0, 0);
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+body {
+    font-family:'Courier New', Courier, monospace;
+}
+.abcbook {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.abcbook a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #ff6600;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+.abcbook a:hover {
+    color: #ff3300;
+}
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-shadow: 1px 1px 2px #000000;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+.alphabet-section {
+    margin: 40px 0;
+}
+.go-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #220199;
+    color: rgb(180, 199, 5);
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s;
+}
+.go-to-top:hover {
+    background-color: #ff3300;
+}
